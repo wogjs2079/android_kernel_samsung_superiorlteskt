@@ -297,6 +297,7 @@ extern void midas_config_sleep_gpio_table(void);
 #define GPIO_IPC_HOST_WAKEUP	EXYNOS4_GPX1(1)
 
 #define GPIO_AP2CMC_INT2	EXYNOS4_GPX1(2)
+#define GPIO_CMC_SPI_CLK_REQ	EXYNOS4212_GPM3(6)
 
 /* Definitions for an USB HUB for CMC221 */
 #define GPIO_USB_HUB_RST	EXYNOS4_GPL0(0)

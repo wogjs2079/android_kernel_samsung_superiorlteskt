@@ -187,6 +187,8 @@ extern void midas_config_sleep_gpio_table(void);
 #define GPIO_MHL_SCL_1_8V	EXYNOS4_GPF0(6)
 #define GPIO_MHL_SDA_1_8V_00	EXYNOS4_GPB(2)
 #define GPIO_MHL_SCL_1_8V_00	EXYNOS4_GPB(3)
+#define GPIO_LINEOUT_EN		EXYNOS4212_GPJ1(2)
+#define GPIO_MHL_SEL		EXYNOS4_GPL0(3)
 
 #define GPIO_OTG_EN		EXYNOS4_GPF0(7)
 
